@@ -61,18 +61,6 @@ This project was developed by **Patel Neha Arvindbhai** as part of the B.E. Comp
 
 ---
 
-## 🗂️ Dataset Tables
-
-| Table | Description |
-|---|---|
-| `Customer` | Customer demographics and type |
-| `Orders` | Main transaction records |
-| `Product` | Product catalog and categories |
-| `Delivery` | Delivery time, partner rating, city |
-| `Review & Sentiment` | Customer reviews and sentiment labels |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -105,25 +93,6 @@ Python 3.8+
 pip
 ```
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/smart-quick-commerce.git
-cd smart-quick-commerce
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Run the Dashboard
-
-```bash
-streamlit run dashboard/app.py
-```
-
----
-
 ## 📋 Requirements
 
 ```
@@ -144,12 +113,17 @@ vaderSentiment
 ## 👩‍💻 Author
 
 **Patel Neha Arvindbhai**
+
 B.E. Computer Engineering — 8th Semester
+
 S.P.B. Patel Engineering College, Mehsana
+
 Gujarat Technological University, Ahmedabad
 
 **Internship at:** Stark Technologies
+
 **External Guide:** Mr. Sumit Chawla
+
 **Internal Guide:** Prof. Kunalsinh Kathia
 
 ---
